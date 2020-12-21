@@ -6,7 +6,7 @@ Quiz to test your CSS knowledge.
 
 ### Description
 
-This is a quiz used to test your knowledge on CSS. This app will track keep track of your highest scores and when you achieved them. The questions for this quiz were found here: [tutorialpoint](https://www.tutorialspoint.com/css/css_online_quiz.htm)
+This is a quiz used to test your knowledge on CSS. This app will track keep track of your highest scores and when you achieved them. The questions for this quiz were found here: [tutorialpoint](https://www.tutorialspoint.com/css/css_online_quiz.htm).
 
 ### Technologies
 
