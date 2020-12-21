@@ -2,8 +2,7 @@
 
 Quiz to test your CSS knowledge.
 
-DEPLOYMENT HERE
-SCREENSHOT HERE
+[Deployment] (https://theshagod.github.io/css-quiz/index.html)
 
 ### Description
 
